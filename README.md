@@ -88,11 +88,7 @@ Your dataset must include the following columns:
 
 ---
 
-## 📸 Screenshot (Optional)
 
-_Add a screenshot of your dashboard here if you want._
-
----
 
 ## 🤝 Contributing
 
