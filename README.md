@@ -73,7 +73,7 @@ Sales_Data_Analysis/
 ### **1. Install required libraries**
 
 ```bash
-pip install streamlit pandas plotly
+pip install streamlit pandas plotly```
 
 ## **2.Place your sales_data.csv**
 Keep it in the same folder as main.py.
