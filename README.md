@@ -75,8 +75,46 @@ Sales_Data_Analysis/
 ```bash
 pip install streamlit pandas plotly
 
-2. Place your sales_data.csv
-
+## **2.Place your sales_data.csv**
 Keep it in the same folder as main.py.
 
-3. Run Streamlit app
+## **3.Run the stremlit app**
+```bash
+streamlit run main.py
+
+## 🧮 Columns Required in `sales_data.csv`
+
+Your dataset must include the following columns:
+
+| Column Name       | Description                |
+|-------------------|----------------------------|
+| Sale_Date         | Date of sale               |
+| Region            | Region name                |
+| Product_Category  | Product category           |
+| Product_ID        | Product identifier         |
+| Quantity_Sold     | Units sold                 |
+| Unit_Cost         | Cost per unit              |
+| Unit_Price        | Selling price per unit     |
+| Sales_Amount      | Total sale value           |
+
+---
+
+## 📸 Screenshot (Optional)
+
+_Add a screenshot of your dashboard here if you want._
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome!  
+For major changes, please open an issue first to discuss what you would like to improve.
+
+---
+
+## 📝 License
+
+This project is for learning and personal use.  
+Feel free to modify and build on top of it.
+
+
