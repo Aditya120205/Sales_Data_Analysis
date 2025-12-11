@@ -71,18 +71,6 @@ Sales_Data_Analysis/
 
 ---
 
-## 🛠️ How to Run the Dashboard
-
-### 1. Install required libraries
-```bash
-pip install streamlit pandas plotly
-
-2. Place your sales_data.csv
-
-Keep it in the same folder as main.py.
-
-3. Run the Streamlit app
-streamlit run main.py
 
 
 ## 🧮 Columns Required in `sales_data.csv`
