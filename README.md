@@ -69,8 +69,6 @@ Sales_Data_Analysis/
 │── README.md
 
 
----
-
 
 
 ## 🧮 Columns Required in `sales_data.csv`
