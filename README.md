@@ -61,26 +61,29 @@ All charts update dynamically based on selected filters.
 
 Sales_Data_Analysis/
 │── main.py
+
 │── sales_data.csv
+
 │── requirements.txt (optional)
+
 │── README.md
 
 
 ---
 
-## 🛠️ **How to Run the Dashboard**
+## 🛠️ How to Run the Dashboard
 
-### **1. Install required libraries**
-
+### 1. Install required libraries
 ```bash
-pip install streamlit pandas plotly```
+pip install streamlit pandas plotly
 
-## **2.Place your sales_data.csv**
+2. Place your sales_data.csv
+
 Keep it in the same folder as main.py.
 
-## **3.Run the stremlit app**
-```bash
+3. Run the Streamlit app
 streamlit run main.py
+
 
 ## 🧮 Columns Required in `sales_data.csv`
 
